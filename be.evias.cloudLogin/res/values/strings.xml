@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cloudLogin</string>
+    <string name="login_label">Login to cloudLogin</string>
+    <string name="signup_label">Register to cloudLogin</string>
+    <string name="title_profile">Your Profile</string>
+    <string name="title_history">Your Positions</string>
+    <string name="title_logout">Log-Out</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="desc_logout">Log out of cloudLogin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_auth_screen">Please Authenticate</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_dologin">Login</string>
+    <string name="label_signup">OR Sign-Up for an Account</string>
+    <string name="intro_runpoint_screen">Welcome to the cloudLogin App by eVias.be.</string>
+    <string name="intro2_runpoint_screen">Please authenticate using a cloudLogin account in order to use this Application.</string>
+    <string name="message_logout_success">You have successfully logged out of cloudLogin.</string>
+    <string name="message_no_accounts_yet">No cloudLogin accounts found on this device. Please Sign-In with an existing cloudLogin account.</string>
+    <string name="message_account_created">Welcome to cloudLogin for Android.</string>
+    <string name="message_session_expired">Your Session has expired please Sign-In again.</string>
+    <string name="title_pick_account">Select an Account</string>
+    <string name="title_add_account">Create/Select an Account</string>
+    <string name="message_welcome_back">Welcome back, </string>
+    <string name="intro_profile">Use this module to check your Profile.</string>
+    <string name="label_select_all">Select All</string>
+    <string name="profile_email_label">Your E-Mail :</string>
+    <string name="profile_name_label">Your Name :</string>
+    <string name="error_invalid_credential_provided">The Login process was interrupted. Invalid credentials provided.</string>
+    <string name="error_server_result">The Server Response is invalid. Please verify your credentials and contact your Administrator if the problem persists.</string>
+    <string name="error_network">An error occured while communicating with our Server. Please make sure your Internet Connection is still active and contact your Administrator if this error persists.</string>
+</resources>
