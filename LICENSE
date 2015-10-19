@@ -1,9 +1,6 @@
-package be.evias.cloudLogin.models;
+LICENSE file for cloudLogin Android App by Grégory Saive.
 
-/**
- * LICENSE
- *
- Copyright 2015 Grégory Saive (greg@evias.be)
+Copyright 2015 Grégory Saive (greg@evias.be)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -16,21 +13,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
- *
-**/
-
-public class ArrayOfInt
-    extends SimpleResult
-{
-	private int[] items;
-
-	public void setItems(int[] items)
-	{
-		this.items = items;
-	}
-
-	public int[] getItems()
-	{
-		return items;
-	}
-}
