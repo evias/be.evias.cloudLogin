@@ -26,9 +26,8 @@ public class ServiceBase
 
     public Boolean ping(Context context)
     {
-        /*
     	DefaultHttpClient httpClient = new DefaultHttpClient();
-        String url = "http://luxbranded.com/android/ping";
+        String url = "http://evias.be/api/index/ping";
         url       += "?format=json&api_key=c611c52d7054086f207ffad27f3927cd";
 
         HttpGet httpGet = new HttpGet(url);
@@ -46,8 +45,6 @@ public class ServiceBase
         catch (IOException e) {}
 
         return false;
-        */
-        return true;
     }
 
 }
