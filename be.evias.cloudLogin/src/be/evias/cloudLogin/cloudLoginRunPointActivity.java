@@ -110,7 +110,7 @@ public class cloudLoginRunPointActivity
     }
 
     /**
-     * Add new account to the account manager for the LuxBranded
+     * Add new account to the account manager for the cloudLogin
      * account type.
      *
      * @param accountType   String
@@ -182,7 +182,7 @@ public class cloudLoginRunPointActivity
                of available accounts for the user to pick. */
 
             /* no account is currently active on the device. Display
-               a list of available LuxBranded accounts. */
+               a list of available cloudLogin accounts. */
             String name[] = new String[availableAccounts.length];
             for (int i = 0; i < availableAccounts.length; i++)
                 name[i] = availableAccounts[i].name;

@@ -36,7 +36,7 @@ import be.evias.cloudLogin.models.SimpleResult;
 
 public class ServiceBase
 {
-    public static class LuxBrandedServiceError
+    public static class cloudLoginServiceError
         implements Serializable
     {
         int code;
